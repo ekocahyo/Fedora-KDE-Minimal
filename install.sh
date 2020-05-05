@@ -1,3 +1,4 @@
+#!/bin/env bash
 dnf install \
   @"base-x" \
   @"Common NetworkManager Submodules" \
