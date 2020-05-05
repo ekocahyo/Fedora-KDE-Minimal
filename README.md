@@ -9,3 +9,5 @@
 `curl https://raw.githubusercontent.com/ekocahyo/Fedora-KDE-Minimal/master/install.sh > install.sh && chmod +x install.sh`
 4. Execution the script: `./install.sh`
 5. Done
+## Note
+In the script I added a package for web developers, you can delete the package if it's not needed
